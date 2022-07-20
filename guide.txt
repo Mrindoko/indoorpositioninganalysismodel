@@ -1,0 +1,6 @@
+1. rightclick while inside git-repository folder
+2. choose Git Bash Here"
+3. type the following command in the git bash terminal window
+	git add .
+	git commit "commit message"
+	git push
